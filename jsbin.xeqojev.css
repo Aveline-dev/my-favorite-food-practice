@@ -1,0 +1,64 @@
+body{
+  background-color:ivory;
+}
+.tealbackground{ 
+  color:maroon; text-align:center;
+  font-family:harrington; padding:15px 10px 15px 10px;
+  font-weight:bold; font-size:50px;
+  text-shadow: 6px 3px 5px gold;
+}
+.cursive{
+  background-color:moccasin; padding:20px 15px 20px 15px;
+}
+
+.cursive p{
+  font-family:cursive; background-color:yellow;
+  color:teal; text-align:justify;
+}
+.yellowcolor p{
+ background-color:olivedrab; color:yellow;
+}
+.yellowcolor{
+  background-color:ivory; padding:2px 10px 2px 10px;
+  text-align:justify;
+}
+.list-style-image{
+  list-style-type: "\2763";  background-color:moccasin;
+  text-align:justify; font-family:sylfaen; font-size:18px;
+}
+ol{
+  list-style-type:lower-roman;
+}
+article{
+  background-color:olivedrab; margin:20px 15px 20px 15px;
+}
+article h3{
+  color:maroon; text-align:left; font-family:harrington;
+  text-shadow: 8px 3px 5px orangered; font-size:30px;
+  font-weight:bold;padding:2px 10px 2px 15px;
+  background-color:ivory;
+}
+#ingredients .list-style-image{
+  background-color:moccasin; color:red
+}
+#making .regular{
+  color:ivory;
+}
+#making .list-style-image{
+  color:red;
+}
+.decorative{
+  background-color:moccasin; color:red; font-family:sylfaen;
+  font-size:18px;
+}
+p span{
+  font-style:italic;
+}
+.yellowcolor span{
+  text-decoration:underline;
+}
+.specialclass{
+  font-style:normal; color:red;
+}
+/* the website url listing various css properties
+https://www.w3schools.com/css/css_padding.asp */
